@@ -11,7 +11,7 @@ http://45.249.187.238:8081/hls/new24.m3u8
  
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
-http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
+
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA",CHANNEL I HD
 http://172.20.1.1:8081/live/channeli/chunks.m3u8
@@ -37,9 +37,6 @@ http://45.249.187.238:8081/hls/live1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
 http://103.214.202.218:8081/live/rtv/chunks.m3u8
-
-#EXTINF:-1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BANGLA",BOISHAKHI TV HD
 
@@ -83,14 +80,13 @@ http://103.214.202.218:8081/live/bijoytv/playlist.m3u8
 http://103.214.202.218:8081/live/mohona/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA",ASIAN TV HD
-
+http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA",ASIAN TV HD
 http://45.249.187.238:8081/hls/new4.m3u8?@IPTVSoltuion
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
-#EXTINF:-1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/8.m3u8?@IPTVSoltuion
+http://103.214.202.218:8081/live/satv-22/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
 
