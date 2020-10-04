@@ -231,10 +231,7 @@ http://45.249.187.238:8081/hls/tsl-7.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies
-http://otv.ftpbd.net/streams/115/index.m3u8
-
-#EXTINF:-1
-http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
+http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA CINEMA",Jalsha Movies
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
