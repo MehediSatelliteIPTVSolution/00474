@@ -682,6 +682,8 @@ http://172.20.1.1:8081/live/channel24/chunks.m3u8
 http://172.20.1.1:8081/live/independent/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="NEWS",Somoy TV FHD
+http://tv-cdn.ihub.live:8080/SomoyTv/index.m3u8
+#EXTINF:-0
 http://172.20.1.1:8081/live/somoy/chunks.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="NEWS",JAMUNA TV HD
