@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BANGLA",Sangsad TV
-
+http://tv-cdn.ihub.live:8080/SangsadTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="BANGLA",BTV Chottogram 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
@@ -54,6 +54,7 @@ http://172.20.1.1:8081/live/banglavision/chunks.m3u8
 http://163.172.29.246:8081/globalbd/banglavision/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BANGLA",DESH TV HD
+http://tv-cdn.ihub.live:8080/j-DeshTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
 http://172.20.1.1:8081/live/mytv/chunks.m3u8
@@ -92,6 +93,7 @@ http://163.172.29.246:8081/globalbd/deepto/chunks.m3u8
 http://172.20.1.1:8081/live/deepto/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA",CHANNEL 9 HD
+http://tv-cdn.ihub.live:8080/j-Channel9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD
 http://43.251.86.6:8080/hls/channel_1.m3u8
@@ -108,6 +110,8 @@ http://172.20.1.1:8081/live/nagorik/chunks.m3u8
 
 
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA",Bangla TV
+http://tv-cdn.ihub.live:8080/j-BanglaTV/index.m3u8
+#EXTINF:-1
 http://172.20.1.1:8081/live/banglatv-19/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ow4bETA.png" group-title="BANGLA",Akash Aath
