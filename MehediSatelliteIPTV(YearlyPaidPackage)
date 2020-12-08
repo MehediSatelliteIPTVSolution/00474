@@ -37,6 +37,8 @@ http://172.20.1.1:8081/live/ntv/chunks.m3u8
 http://163.172.29.246:8081/globalbd/ntv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
+http://tv-cdn.ihub.live:8080/RTV/index.m3u8
+#EXTINF:-1
 http://172.20.1.1:8081/live/rtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BANGLA",RTV HD
@@ -57,6 +59,8 @@ http://163.172.29.246:8081/globalbd/banglavision/chunks.m3u8
 http://tv-cdn.ihub.live:8080/j-DeshTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
+http://tv-cdn.ihub.live:8080/MyTV/index.m3u8
+#EXTINF:-1
 http://172.20.1.1:8081/live/mytv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BANGLA",MY TV HD
@@ -84,6 +88,8 @@ http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
 http://163.172.29.246:8081/globalbd/satv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA",SA TV HD
+http://tv-cdn.ihub.live:8080/SATV/index.m3u8
+#EXTINF:-1
 http://172.20.1.1:8081/live/satv-22/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA",DEEPTO TV HD
@@ -695,8 +701,7 @@ http://172.20.1.1:8081/live/jamuna/chunks.m3u8
 
 
 #EXTINF:-0 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="NEWS",NEWS 24 FHD
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="NEWS",NEWS 24 FHD
+http://tv-cdn.ihub.live:8080/News24/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/eIDDCKU.png" group-title="NEWS",Euro News
 
